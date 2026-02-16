@@ -8,7 +8,7 @@
 - Deleting Task
 
 ## Watch Demo Video:
-- https://drive.google.com/file/d/1_s0Iu92fg3-VHJNEsYARA5rBticzGWgk/view?usp=share_link
+- https://drive.google.com/file/d/1tiqLfafXqo8czUjRlfGR5i5LCamx2uUo/view?usp=share_link
 
 
 # GACS - Eulerity iOS Take-Home Exercise
